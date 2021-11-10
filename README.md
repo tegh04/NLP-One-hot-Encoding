@@ -1,6 +1,6 @@
 # NLP-One-hot-Encoding
 
-Team Members:
+Team Members:\
 -Tegh Bir Singh\
 -Zeyu Li\
 -Michael Cooke\
