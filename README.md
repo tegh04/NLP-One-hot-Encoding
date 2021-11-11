@@ -19,5 +19,5 @@ The NLP one-hot encoding uses tokenisation-based matching from Spacy to encode t
 
 ## Going Forward
 -Consider applying dimensionality reduction\
--Vectorise code or investigate JIT (Just-In Time) for faster speed
+-Vectorise code or investigate JIT (Just-In Time) for faster speed\
 -Find a way to lock file from being read to prevent file permission error
