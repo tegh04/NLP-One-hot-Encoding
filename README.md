@@ -1,10 +1,15 @@
 # NLP-One-hot-Encoding
 
+Roles:
+R1: ML Neural Network
+R2: ML SMOTE / Random Forest 
+R3: NLP tokenisation-based one-hot-encoding
+
 Team Members:\
--Tegh Bir Singh\
--Zeyu Li\
--Michael Cooke\
--William Godfrey
+-Tegh Bir Singh (R3)\
+-Zeyu Li (R1)\
+-Michael Cooke (R1)\
+-William Godfrey (R2)
 
 ## Problem Context
 
