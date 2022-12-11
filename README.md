@@ -2,7 +2,7 @@
 
 Roles:\
 R1: ML Neural Network\
-R2: ML SMOTE/Random Forest \
+R2: ML SMOTE/Random Forest\
 R3: NLP tokenisation-based one-hot-encoding
 
 Team Members:\
